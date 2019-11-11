@@ -1,0 +1,60 @@
+1
+J.J. WattDL - HOU	--	1
+2
+Aaron DonaldDL - LA	--	2
+3
+Joey BosaDL - LAC	--	3
+4
+Myles GarrettDL - CLE	--	4
+5
+Danielle HunterDL - MIN	--	5
+6
+Calais CampbellDL - JAX	--	6
+7
+Demarcus LawrenceDL - DALView News	--	7
+8
+Cameron JordanDL - NO	--	8
+9
+Melvin IngramDL - LAC	--	9
+10
+DeForest BucknerDL - SF	--	10
+11
+Trey FlowersDL - DETView News	--	11
+12
+Frank ClarkDL - KC	--	12
+13
+Carlos DunlapDL - CIN	--	13
+14
+Akiem HicksDL - CHI	--	14
+15
+Chris JonesDL - KC	--	15
+16
+Mario AddisonDL - CAR	--	16
+17
+Nick BosaDL - SFView News	--	17
+18
+Kenny ClarkDL - GB	--	18
+19
+Cameron HeywardDL - PIT	--	19
+20
+Brandon GrahamDL - PHI	--	20
+21
+Jurrell CaseyDL - TEN	--	21
+22
+Everson GriffenDL - MIN	--	22
+23
+Dante FowlerDL - LA	--	23
+24
+Jabaal SheardDL - INDView News	--	24
+25
+Jonathan AllenDL - WAS	--	25
+26
+Ezekiel AnsahDL - SEAView News	--	26
+27
+Yannick NgakoueDL - JAX	--	27
+28
+Jarran ReedDL - SEASUS	--	28
+29
+Jerry HughesDL - BUF	--	29
+30
+Fletcher CoxDL - PHIView News	--	30

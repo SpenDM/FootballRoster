@@ -1,0 +1,179 @@
+1
+DeAndre HopkinsWR - HOU	64	1
+2
+Davante AdamsWR - GB	63	2
+3
+Julio JonesWR - ATLView News	62	3
+4
+Michael ThomasWR - NO	60	4
+5
+Odell BeckhamWR - CLEView News	58	5
+6
+Tyreek HillWR - KC	58	6
+7
+JuJu Smith-SchusterWR - PIT	55	7
+8
+Mike EvansWR - TBView NewsView Videos
+48	8
+9
+Keenan AllenWR - LACView Videos
+45	9
+10
+Antonio BrownWR - OAKView Videos
+45	10
+11
+Adam ThielenWR - MINView News	43	11
+12
+Amari CooperWR - DALView NewsView Videos
+43	12
+13
+Stefon DiggsWR - MINView News	41	13
+14
+Julian EdelmanWR - NEView NewsView Videos
+38	14
+15
+Robert WoodsWR - LA	35	15
+16
+Chris GodwinWR - TBView Videos
+32	16
+17
+Cooper KuppWR - LAView News	32	17
+18
+Brandin CooksWR - LA	32	18
+19
+Kenny GolladayWR - DETView Videos
+28	19
+20
+Tyler LockettWR - SEAView Videos
+25	20
+21
+D.J. MooreWR - CARView Videos
+25	21
+22
+Allen RobinsonWR - CHIView Videos
+23	22
+23
+T.Y. HiltonWR - INDView Videos
+23	23
+24
+Tyler BoydWR - CINView Videos
+23	24
+25
+Calvin RidleyWR - ATL	22	25
+26
+Mike WilliamsWR - LAC	22	26
+27
+Alshon JefferyWR - PHIView News	21	27
+28
+Jarvis LandryWR - CLE	20	28
+29
+Dede WestbrookWR - JAXView Videos
+20	29
+30
+Curtis SamuelWR - CARView Videos
+20	30
+31
+Josh GordonWR - NE	20	31
+32
+A.J. GreenWR - CIN	20	32
+33
+Corey DavisWR - TEN	19	33
+34
+Marvin JonesWR - DET	19	34
+35
+Robby AndersonWR - NYJView News	18	35
+36
+Sterling ShepardWR - NYG	18	36
+37
+Christian KirkWR - ARI	17	37
+38
+Emmanuel SandersWR - DEN	17	38
+39
+Tyrell WilliamsWR - OAK	16	39
+40
+Larry FitzgeraldWR - ARI	16	40
+41
+Sammy WatkinsWR - KC	15	41
+42
+Courtland SuttonWR - DEN	15	42
+43
+Will FullerWR - HOUView Videos
+14	43
+44
+Dante PettisWR - SFView News	14	44
+45
+Michael GallupWR - DAL	14	45
+46
+Donte MoncriefWR - PIT	13	46
+47
+DeSean JacksonWR - PHIView News	13	47
+48
+James WashingtonWR - PITView Videos
+12	48
+49
+Jamison CrowderWR - NYJ	12	49
+50
+John BrownWR - BUF	11	50
+51
+Albert WilsonWR - MIAView NewsView Videos
+11	51
+52
+Mohamed SanuWR - ATL	10	52
+53
+Geronimo AllisonWR - GB	10	53
+54
+Marquez Valdes-ScantlingWR - GB	10	54
+55
+Keke CouteeWR - HOU	10	55
+56
+Golden TateWR - NYGSUS	9	56
+57
+Quincy EnunwaWR - NYJ	10	57
+58
+Anthony MillerWR - CHIView Videos
+10	58
+59
+Paul RichardsonWR - WAS	9	59
+60
+Kenny StillsWR - HOU	9	60
+61
+Deebo SamuelWR - SFView Videos
+9	61
+62
+DaeSean HamiltonWR - DEN	8	62
+63
+D.K. MetcalfWR - SEAView News	8	63
+64
+DeVante ParkerWR - MIA	8	64
+65
+Trey QuinnWR - WASView News	8	65
+66
+Rashard HigginsWR - CLE	8	66
+67
+Ted GinnWR - NO	7	67
+68
+Cole BeasleyWR - BUF	7	68
+69
+Terry McLaurinWR - WAS	6	69
+70
+Devin FunchessWR - INDView News	6	70
+71
+Preston WilliamsWR - MIA	5	71
+72
+Robert FosterWR - BUF	5	72
+73
+Andy IsabellaWR - ARIView News	5	73
+74
+Randall CobbWR - DAL	5	74
+75
+Marqise LeeWR - JAXView News	5	75
+76
+Tre'Quan SmithWR - NO	5	76
+77
+Adam HumphriesWR - TEN	4	77
+78
+Marquise BrownWR - BAL	4	78
+79
+Danny AmendolaWR - DET	4	79
+80
+Willie SneadWR - BAL

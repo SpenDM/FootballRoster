@@ -1,0 +1,27 @@
+OFFENSE
+LWR	80	Landry, Jarvis T/Mia	81	Higgins, Rashard 16/5	10	Taylor, Taywan T/Ten
+RWR	13	Beckham Jr., Odell T/NYG	18	Ratley, Damion 18/6	12	Hodge, KhaDarel W/LAR
+LT	78	Robinson, Greg SF18	70	Lamm, Kendall U/Hou
+LG	75	Bitonio, Joel 14/2	67	McCray, Justin T/GB
+C	64	Tretter, JC U/GB	63	Corbett, Austin 18/2
+RG	72	KUSH, ERIC U/Chi	77	Teller, Wyatt T/Buf
+RT	74	Hubbard, Chris U/Pit
+TE	85  Njoku, David 17/1   86	Brown, Pharaoh SF18
+TE	88	Harris, Demetrius U/KC	83	Seals-Jones, Ricky W/Arz
+QB	6	Mayfield, Baker 18/1	3	Gilbert, Garrett SF19
+RB	24	Chubb, Nick 18/2	25	Hilliard, Dontrell CF18	30	Johnson, D'Ernest SF19
+DEFENSE
+LDE	95	Garrett, Myles 17/1	92	Thomas, Chad 18/3
+DT	65	Ogunjobi, Larry 17/3	99	Lawrence, Devaroe T/NO
+DT	98	Richardson, Sheldon U/Min	96	Ekuale, Daniel CF18
+DE	54	Vernon, Olivier T/NYG	50	Smith, Chris U/Cin	55	Avery, Genard 18/5
+SAM	57	Taylor, Adarius U/TB	55	Avery, Genard 18/5
+MLB	53	Schobert, Joe 16/4	44	Takitaki, Sione 19/3
+WLB	51	Wilson, Mack 19/5	40	Jefferson, Malik W/Cin	56	Harvey, Willie CF19
+LCB	21	Ward, Denzel 18/1	38	Carrie, TJ U/Oak	00	Burris, Juston W/Oak
+SS	42	BURNETT, MORGAN SF19	35	Whitehead, Jermaine W/GB
+FS	23	Randall, Damarious T/GB	22	Murray, Eric T/KC	29	Redwine, Sheldrick 19/4
+RCB	26	Williams, Greedy 19/2	39	Mitchell, Terrance U/KC	20	Thomas, Tavierre W/Arz	34	Jackson, Robert SF18
+SPECIAL TEAMS
+PT	7	Gillan, Jamie CF19
+PK	4	Seibert, Austin 19/5

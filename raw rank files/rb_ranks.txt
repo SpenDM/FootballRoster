@@ -1,0 +1,181 @@
+1
+Saquon BarkleyRB - NYG	67	1
+2
+Christian McCaffreyRB - CAR	65	2
+3
+Alvin KamaraRB - NO	65	3
+4
+Ezekiel ElliottRB - DALNWTView News	63	4
+5
+Le'Veon BellRB - NYJView NewsView Videos
+58	5
+6
+David JohnsonRB - ARIView Videos
+58	6
+7
+James ConnerRB - PIT	55	7
+8
+Nick ChubbRB - CLEView Videos
+55	8
+9
+Joe MixonRB - CIN	53	9
+10
+Todd GurleyRB - LA	49	10
+11
+Dalvin CookRB - MINView Videos
+44	11
+12
+Leonard FournetteRB - JAX	41	12
+13
+Chris CarsonRB - SEAView NewsView Videos
+38	13
+14
+Aaron JonesRB - GB	35	14
+15
+Devonta FreemanRB - ATLView Videos
+33	15
+16
+Kerryon JohnsonRB - DETView Videos
+33	16
+17
+Josh JacobsRB - OAK	33	17
+18
+Derrick HenryRB - TEN	31	18
+19
+Damien WilliamsRB - KCView Videos
+28	19
+20
+David MontgomeryRB - CHIView Videos
+28	20
+21
+James WhiteRB - NE	26	21
+22
+Marlon MackRB - IND	26	22
+23
+Mark IngramRB - BALView Videos
+25	23
+24
+Sony MichelRB - NEView Videos
+25	24
+25
+Phillip LindsayRB - DEN	25	25
+26
+Duke JohnsonRB - HOU	24	26
+27
+Tevin ColemanRB - SF	23	27
+28
+Melvin GordonRB - LACNWTView News	23	28
+29
+Miles SandersRB - PHIView NewsView Videos
+21	29
+30
+Austin EkelerRB - LAC	21	30
+31
+Kenyan DrakeRB - MIAView News	21	31
+32
+Devin SingletaryRB - BUFView Videos
+21	32
+33
+Tarik CohenRB - CHI	20	33
+34
+Derrius GuiceRB - WASView Videos
+19	34
+35
+Matt BreidaRB - SF	16	35
+36
+Darrell HendersonRB - LAView Videos
+15	36
+37
+Kalen BallageRB - MIAView News	15	37
+38
+Latavius MurrayRB - NO	15	38
+39
+Rashaad PennyRB - SEA	15	39
+40
+Royce FreemanRB - DEN	14	40
+41
+LeSean McCoyRB - KC	14	41
+42
+Jordan HowardRB - PHIView Videos
+14	42
+43
+Adrian PetersonRB - WAS	13	43
+44
+Peyton BarberRB - TB	12	44
+45
+Justice HillRB - BALView Videos
+12	45
+46
+Justin JacksonRB - LACView Videos
+11	46
+47
+Chris ThompsonRB - WAS	11	47
+48
+C.J. AndersonRB - DET	10	48
+49
+Tony PollardRB - DALView NewsView Videos
+10	49
+50
+Dion LewisRB - TEN	10	50
+51
+Ty MontgomeryRB - NYJ	9	51
+52
+Dare OgunbowaleRB - TBView Videos
+9	52
+53
+Jaylen SamuelsRB - PIT	9	53
+54
+Jalen RichardRB - OAK	9	54
+55
+Giovani BernardRB - CIN	9	55
+56
+Damien HarrisRB - NE	8	56
+57
+Ito SmithRB - ATL	8	57
+58
+Jamaal WilliamsRB - GB	8	58
+59
+Alexander MattisonRB - MIN	8	59
+60
+Ronald JonesRB - TB	7	60
+61
+Frank GoreRB - BUF	7	61
+62
+Ryquell ArmsteadRB - JAX	7	62
+63
+Nyheim HinesRB - IND	7	63
+64
+Carlos HydeRB - HOUView NewsView Videos
+6	64
+65
+Chase EdmondsRB - ARI	6	65
+66
+Darwin ThompsonRB - KC	6	66
+67
+Kareem HuntRB - CLESUS	6	67
+68
+Rex BurkheadRB - NE	5	68
+69
+Malcolm BrownRB - LA	4	69
+70
+Gus EdwardsRB - BAL	3	70
+71
+Dontrell HilliardRB - CLE	3	71
+72
+Mike DavisRB - CHI	3	72
+73
+Devontae BookerRB - DEN	3	73
+74
+Wayne GallmanRB - NYG	2	74
+75
+Benny SnellRB - PIT	2	75
+76
+Raheem MostertRB - SF	2	76
+77
+Ty JohnsonRB - DET	2	77
+78
+Reggie BonnafonRB - CAR	2	78
+79
+Bilal PowellRB - NYJ	2	79
+80
+T.J. YeldonRB - BUF

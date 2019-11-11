@@ -1,0 +1,60 @@
+1
+Darius LeonardLB - IND	--	1
+2
+Luke KuechlyLB - CAR	--	2
+3
+Bobby WagnerLB - SEA	--	3
+4
+Deion JonesLB - ATLView News	--	4
+5
+Leighton Vander EschLB - DAL	--	5
+6
+Blake MartinezLB - GB	--	6
+7
+Roquan SmithLB - CHI	--	7
+8
+Tremaine EdmundsLB - BUF	--	8
+9
+Cory LittletonLB - LA	--	9
+10
+Lavonte DavidLB - TBView News	--	10
+11
+C.J. MosleyLB - NYJ	--	11
+12
+Kwon AlexanderLB - SF	--	12
+13
+Jaylon SmithLB - DAL	--	13
+14
+Demario DavisLB - NO	--	14
+15
+Kiko AlonsoLB - NO	--	15
+16
+Devin WhiteLB - TB	--	16
+17
+Christian KirkseyLB - CLE	--	17
+18
+Eric KendricksLB - MIN	--	18
+19
+Jordan HicksLB - ARI	--	19
+20
+Khalil MackLB - CHI	--	20
+21
+Mason FosterLB	--	21
+22
+Myles JackLB - JAX	--	22
+23
+Avery WilliamsonLB - NYJIRView News	--	23
+24
+Alec OgletreeLB - NYGView News	--	24
+25
+Jarrad DavisLB - DETView News	--	25
+26
+Anthony HitchensLB - KC	--	26
+27
+Joe SchobertLB - CLE	--	27
+28
+Jayon BrownLB - TEN	--	28
+29
+Zach CunninghamLB - HOU	--	29
+30
+Danny TrevathanLB - CHI	--	30

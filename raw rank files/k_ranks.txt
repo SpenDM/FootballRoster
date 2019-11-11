@@ -1,0 +1,64 @@
+1
+Greg ZuerleinK - LA	6	1
+2
+Justin TuckerK - BAL	5	2
+3
+Wil LutzK - NO	5	3
+4
+Harrison ButkerK - KC	5	4
+5
+Stephen GostkowskiK - NE	4	5
+6
+Robbie GouldK - SF	4	6
+7
+Ka'imi FairbairnK - HOU	4	7
+8
+Jake ElliottK - PHI	4	8
+9
+Mason CrosbyK - GB	4	9
+10
+Mike BadgleyK - LAC	4	10
+11
+Brett MaherK - DAL	3	11
+12
+Matt BryantK - ATL	3	12
+13
+Jason MyersK - SEA	3	13
+14
+Matt GayK - TB	2	14
+15
+Dan BaileyK - MIN	2	15
+16
+Austin SeibertK - CLE	2	16
+17
+Adam VinatieriK - IND	2	17
+18
+Ryan SuccopK - TENView News	2	18
+19
+Joey SlyeK - CAR	2	19
+20
+Matt PraterK - DET	2	20
+21
+Chris BoswellK - PIT	2	21
+22
+Aldrick RosasK - NYG	2	22
+23
+Brandon McManusK - DEN	2	23
+24
+Josh LamboK - JAX	1	24
+25
+Dustin HopkinsK - WAS	1	25
+26
+Eddy PineiroK - CHI	1	26
+27
+Daniel CarlsonK - OAK	1	27
+28
+Taylor BertoletK	1	28
+29
+Randy BullockK - CIN	1	29
+30
+Jason SandersK - MIA	1	30
+31
+Stephen HauschkaK - BUF	1	31
+32
+Zane GonzalezK - ARI	1	32

@@ -1,0 +1,60 @@
+1
+Jamal AdamsDB - NYJ	--	1
+2
+Derwin JamesDB - LACIR	--	2
+3
+Landon CollinsDB - WAS	--	3
+4
+Keanu NealDB - ATL	--	4
+5
+John JohnsonDB - LA	--	5
+6
+Budda BakerDB - ARI	--	6
+7
+Shawn WilliamsDB - CIN	--	7
+8
+Jordan PoyerDB - BUF	--	8
+9
+Harrison SmithDB - MINView News	--	9
+10
+Justin ReidDB - HOU	--	10
+11
+Antoine BetheaDB - NYG	--	11
+12
+Jessie BatesDB - CIN	--	12
+13
+Kevin ByardDB - TEN	--	13
+14
+Bradley McDougaldDB - SEA	--	14
+15
+Ha Ha Clinton-DixDB - CHI	--	15
+16
+Tyrann MathieuDB - KCView News	--	16
+17
+Malcolm JenkinsDB - PHI	--	17
+18
+Clayton GeathersDB - IND	--	18
+19
+Adrian AmosDB - GB	--	19
+20
+Damarious RandallDB - CLE	--	20
+21
+Earl ThomasDB - BAL	--	21
+22
+Eddie JacksonDB - CHI	--	22
+23
+Reshad JonesDB - MIA	--	23
+24
+Eric ReidDB - CAR	--	24
+25
+Tony JeffersonDB - BAL	--	25
+26
+Morgan BurnettDB - CLE	--	26
+27
+Donte JacksonDB - CAR	--	27
+28
+Justin SimmonsDB - DEN	--	28
+29
+D.J. SwearingerDB - ARI	--	29
+30
+T.J. McDonaldDB	--	30
