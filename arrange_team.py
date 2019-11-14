@@ -1,6 +1,7 @@
 import re
+import pickle
 
-team_file = "browns.txt"
+team_file = "Browns.txt"
 
 OFFENSE = "OFFENSE"
 DEFENSE = "DEFENSE"
@@ -38,7 +39,9 @@ def main():
 
         get_players(chunks, team, mode, position, player_ranks, max_rank)
 
-    print("do something here")
+    # Create pickle filename and write to it
+    team_pickle_filename = re.sub("\..+", ".p", team_file)
+    pickle.dump(team, open(team_pickle_filename, "wb"))
 
 
 def read_position_players(raw_position, team, mode):
